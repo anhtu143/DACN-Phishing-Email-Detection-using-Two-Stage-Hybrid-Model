@@ -1,3 +1,4 @@
+PHÁT HIỆN EMAIL PHISHING BẰNG MACHINE LEARNING + DEEP LEARNING
 1. Overview
 Dự án tập trung nghiên cứu và xây dựng hệ thống tự động phát hiện email lừa đảo (phishing) bằng cách ứng dụng các kỹ thuật xử lý ngôn ngữ tự nhiên (NLP) và thuật toán học máy (Machine Learning). Hệ thống thực hiện phân loại văn bản để xác định email thuộc nhóm Phishing (Lừa đảo) hoặc Legitimate (Hợp lệ).
 
@@ -71,3 +72,10 @@ Alhogail, A. et al. (2021). Applying machine learning and NLP to detect phishing
 Fette et al. (2007). Learning to Detect Phishing Emails.
 
 Thakur et al. (2023). Deep Learning-based Phishing Detection Review.
+
+8. Author
+Student: Đặng Lê Anh Tú
+
+Major: Cybersecurity
+
+University: Ho Chi Minh City University of Technology (HUTECH)
