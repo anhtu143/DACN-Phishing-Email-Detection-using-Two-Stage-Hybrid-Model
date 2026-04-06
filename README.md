@@ -3,7 +3,7 @@
 ##  1. Overview  
  Dự án tập trung nghiên cứu và xây dựng hệ thống tự động phát hiện email lừa đảo (phishing) bằng cách ứng dụng các kỹ thuật xử lý ngôn ngữ tự nhiên (NLP) và thuật toán học máy (Machine Learning) .  Hệ thống thực hiện phân loại văn bản để xác định email thuộc nhóm Phishing (Lừa đảo) hoặc Legitimate (Hợp lệ) . 
 
- Phishing là một trong những vector tấn công phổ biến nhất trong an ninh mạng hiện nay[cite: 3].  Việc phát hiện dựa trên nội dung văn bản giúp ngăn chặn các cuộc tấn công Social Engineering ngay từ giai đoạn đầu.
+ Phishing là một trong những vector tấn công phổ biến nhất trong an ninh mạng hiện nay.  Việc phát hiện dựa trên nội dung văn bản giúp ngăn chặn các cuộc tấn công Social Engineering ngay từ giai đoạn đầu.
 
 ---
 
